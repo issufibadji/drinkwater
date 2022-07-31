@@ -22,7 +22,7 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/drinkwater?style=flat-square">
 </p>
 
-![drinkwater](https://user-images.githubusercontent.com/45535344/182041070-4ada4074-61b7-4dfe-a861-0b53187cae2e.gif)
+![drinkwater](https://user-images.githubusercontent.com/45535344/182042573-7a936755-90ee-4b85-98be-be230b5afdb5.gif)
 
 ## :book: Sobre
 O **Drinkwater**
