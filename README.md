@@ -1,6 +1,4 @@
 # drinkwater
-Beba àgua
-# Mytime
 <h1 align="center" color=" ">
    Drinkwater
 </h1>
@@ -41,6 +39,7 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 2. ✔️ (CSS)
 3. ✔️ (JS)
 
+![drinkwater](https://user-images.githubusercontent.com/45535344/182041070-4ada4074-61b7-4dfe-a861-0b53187cae2e.gif)
 
 ## 🔖Layout
 Para visualizar o layout do projeto crie ou acesse sua conta no [dribbble](dribbble.com) e [desse link](https://dribbble.com/shots/6196531-The-design-of-the-app-drink-water) para acessá-lo.
